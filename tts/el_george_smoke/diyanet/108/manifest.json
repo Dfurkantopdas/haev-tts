@@ -1,0 +1,21 @@
+{
+  "surah": 108,
+  "version": 1,
+  "verses": [
+    {
+      "id": 1,
+      "bytes": 51035,
+      "sha256": "e5c4ca248d7c8e173bf21c64ecba64f3f40dbb0c85d65ce37fa469159ccb15e7"
+    },
+    {
+      "id": 2,
+      "bytes": 42675,
+      "sha256": "f20b8b39c2b67bb3e74fb6a967186ab2379599b0dce689eda2097a2d85bb83e6"
+    },
+    {
+      "id": 3,
+      "bytes": 56050,
+      "sha256": "d7bae161cd9b357c3afd848cd6e76373d8bc61199ff22dbd9ba3a08b28c36ce4"
+    }
+  ]
+}
