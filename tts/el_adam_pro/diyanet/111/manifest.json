@@ -1,0 +1,31 @@
+{
+  "surah": 111,
+  "version": 1,
+  "verses": [
+    {
+      "id": 1,
+      "bytes": 49363,
+      "sha256": "9dac9cf6fab313f30babba632d743750526aed2f91f25c7790cd2161d6160921"
+    },
+    {
+      "id": 2,
+      "bytes": 46437,
+      "sha256": "1de8a112684b128f610bdf47cb43137df520914d449cc254810d5ec54ab7e16b"
+    },
+    {
+      "id": 3,
+      "bytes": 40586,
+      "sha256": "5d4c161a6afbaffdab1e0327796e39044d7b6c157dd01329b22bbd607dcac8d6"
+    },
+    {
+      "id": 4,
+      "bytes": 62737,
+      "sha256": "07e46320d4a03a2b0ca5cd5bdce6091fdfddde86c2985a5d4a48c9484ca04eb8"
+    },
+    {
+      "id": 5,
+      "bytes": 64827,
+      "sha256": "1d78d7edca13181f8c388c0ebd8c0a6e3de1483da8c747c9828185c461fc1f25"
+    }
+  ]
+}

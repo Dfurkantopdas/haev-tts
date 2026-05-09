@@ -1,0 +1,71 @@
+{
+  "voice": "el_adam_pro",
+  "meal": "diyanet",
+  "model": "eleven_multilingual_v2",
+  "elevenlabs_voice_id": "J17lijyP1BHYcM7ld0Rg",
+  "version": 1,
+  "surahs": [
+    {
+      "id": 1,
+      "verses_present": 7
+    },
+    {
+      "id": 2,
+      "verses_present": 2
+    },
+    {
+      "id": 36,
+      "verses_present": 83
+    },
+    {
+      "id": 59,
+      "verses_present": 3
+    },
+    {
+      "id": 105,
+      "verses_present": 5
+    },
+    {
+      "id": 106,
+      "verses_present": 4
+    },
+    {
+      "id": 107,
+      "verses_present": 7
+    },
+    {
+      "id": 108,
+      "verses_present": 3
+    },
+    {
+      "id": 109,
+      "verses_present": 6
+    },
+    {
+      "id": 110,
+      "verses_present": 3
+    },
+    {
+      "id": 111,
+      "verses_present": 5
+    },
+    {
+      "id": 112,
+      "verses_present": 4
+    },
+    {
+      "id": 113,
+      "verses_present": 5
+    },
+    {
+      "id": 114,
+      "verses_present": 6
+    }
+  ],
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.5,
+    "style": 0.0,
+    "speed": 1.0
+  }
+}

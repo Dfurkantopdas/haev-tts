@@ -1,0 +1,21 @@
+{
+  "surah": 59,
+  "version": 1,
+  "verses": [
+    {
+      "id": 22,
+      "bytes": 206097,
+      "sha256": "2bc565898b81e01bcf5fae92f0f6c1fb1aec3dbebb02233a8b35b41ff9e67fdb"
+    },
+    {
+      "id": 23,
+      "bytes": 379968,
+      "sha256": "626f76565b1e80da9b16a967bd2489d97f7bf7d6ddb075f4f3d9a322422998bc"
+    },
+    {
+      "id": 24,
+      "bytes": 275897,
+      "sha256": "eb1988ebbe5d26fc045ec1af561acf5b14b47913b1adf54becf89ab1f5555c7f"
+    }
+  ]
+}

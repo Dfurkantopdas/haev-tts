@@ -1,0 +1,16 @@
+{
+  "surah": 2,
+  "version": 1,
+  "verses": [
+    {
+      "id": 285,
+      "bytes": 392089,
+      "sha256": "7420a65b0258ffe5c46bacd633be2056c41c8cd822cd7e142741491b37eedf85"
+    },
+    {
+      "id": 286,
+      "bytes": 485712,
+      "sha256": "08be255017c9446deb4c1bf5dfc326c5184756111d2aadf22adcea07be423741"
+    }
+  ]
+}

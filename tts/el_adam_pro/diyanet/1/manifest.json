@@ -1,0 +1,41 @@
+{
+  "surah": 1,
+  "version": 1,
+  "verses": [
+    {
+      "id": 1,
+      "bytes": 59812,
+      "sha256": "22d8b52d13d5f8aca926c4bde52af89d7203ee9b2415d71e85b2e081cbecc28d"
+    },
+    {
+      "id": 2,
+      "bytes": 76948,
+      "sha256": "cbe99865092bd0532a7da9c91df7a9becec28edbb74dfb2d393b6fc9b141d6e3"
+    },
+    {
+      "id": 3,
+      "bytes": 33062,
+      "sha256": "e02544b538440f7d2f5f4446852de7326cb2986509c4b37849a71aa35a574c0b"
+    },
+    {
+      "id": 4,
+      "bytes": 30973,
+      "sha256": "ba68d77e1ad3ecbb14af5655c3982e76d06172e04fdbfb62bad8cd604e11e7cd"
+    },
+    {
+      "id": 5,
+      "bytes": 97846,
+      "sha256": "baad85735550a4515695b9194f70a5351c03b1d03daafa9637458c20555ccfe8"
+    },
+    {
+      "id": 6,
+      "bytes": 27211,
+      "sha256": "911a8438027c43d187f8ea1bd6f9a271d7658563d61f2d1db0fc43e8e4f92c64"
+    },
+    {
+      "id": 7,
+      "bytes": 131701,
+      "sha256": "9b32c4c541792be9bfa8f9dd71988397eebd94630f51c9e6cd79129d25619255"
+    }
+  ]
+}
