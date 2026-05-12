@@ -1,0 +1,151 @@
+{
+  "surah": 48,
+  "version": 1,
+  "verses": [
+    {
+      "id": 1,
+      "bytes": 61902,
+      "sha256": "26a852c5b2d2aef5d02db606d4c2fcc50b7b047c73ab4b803681be2506b1e67c"
+    },
+    {
+      "id": 2,
+      "bytes": 151345,
+      "sha256": "2be2c9520b1c3845d25467e96e6c3ef11e106563186f2f43b2fd424815765e5d"
+    },
+    {
+      "id": 3,
+      "bytes": 44347,
+      "sha256": "3535c916b0ca94f0d1f8276670f319fe6a87c2e10a12a87c88997ed71874734e"
+    },
+    {
+      "id": 4,
+      "bytes": 233683,
+      "sha256": "608bfd1e4f2da2b7365b6beb0afc1b396d4205a507e3123fb72a346642502dc8"
+    },
+    {
+      "id": 5,
+      "bytes": 276733,
+      "sha256": "151661121ac6b14e609f38151564e653c6a4754b74d29fcd55f064eaa4632e5c"
+    },
+    {
+      "id": 6,
+      "bytes": 447678,
+      "sha256": "8eb13dc625b0933b512f17afaaa7a1a29e30c24cff4f337a9f60fa69cd0cd2a8"
+    },
+    {
+      "id": 7,
+      "bytes": 107877,
+      "sha256": "0d91f2e13c262d5c861f84afb130734975a6873c3d06808b11ebce7abd15b60b"
+    },
+    {
+      "id": 8,
+      "bytes": 87397,
+      "sha256": "35834fda2c3b3398a42dbd5bcf1b9965133db9fd118932ae00bb6fe4471b2320"
+    },
+    {
+      "id": 9,
+      "bytes": 232847,
+      "sha256": "3106e6555e7d50f41ef10785a71970ee41118fc76d56ae2f43edbf1995c31224"
+    },
+    {
+      "id": 10,
+      "bytes": 359071,
+      "sha256": "47b04addb47e325d804df368f8da04c599de17097cce3356fe9c4ddcb02c0f88"
+    },
+    {
+      "id": 11,
+      "bytes": 477353,
+      "sha256": "20417b612b89d1d6395555f8c811f9a5880bd37612143cb5ec2eb486a39ab7a9"
+    },
+    {
+      "id": 12,
+      "bytes": 224906,
+      "sha256": "218b0183810420b9ce81c9fe18d1034cc0d1c41cdb69108092dc12051ad17220"
+    },
+    {
+      "id": 13,
+      "bytes": 120834,
+      "sha256": "955e7efb13666ddf25021cc74065e8ad0576a9cb8b8977a70a2d3bf0b7cacef9"
+    },
+    {
+      "id": 14,
+      "bytes": 188961,
+      "sha256": "b7deccf1ffe48933d3eda0f4370673c3154e8ddae1a753a616bf62eed5c4479f"
+    },
+    {
+      "id": 15,
+      "bytes": 486130,
+      "sha256": "ac71a928773269c11fdb5c904b4d1ae2b43aa0664ef9416a3edf425749821fd8"
+    },
+    {
+      "id": 16,
+      "bytes": 418003,
+      "sha256": "a43420e0091faac947629221e5c8d999d7408d6c7547f59ffd4b77b42eb40481"
+    },
+    {
+      "id": 17,
+      "bytes": 359906,
+      "sha256": "0ae37f01fe8f675d537000c554a6bec3a34789b7d0c0d5141b1ba27a0f2c7edc"
+    },
+    {
+      "id": 18,
+      "bytes": 236608,
+      "sha256": "a45072fd80a1718a7e26a2ac69b0edb4fdc8689a40c416ad7c30acdb3e937dc1"
+    },
+    {
+      "id": 19,
+      "bytes": 119998,
+      "sha256": "e996eace8830d73077c3acc20fd3c9fdb33157452ed86c5ff7993649eb60cd75"
+    },
+    {
+      "id": 20,
+      "bytes": 278404,
+      "sha256": "14f0f59b13660409292a504c0368a00b72866903b4296c3e9a54ff9ce7f7e1a1"
+    },
+    {
+      "id": 21,
+      "bytes": 173497,
+      "sha256": "8e822c4fd0c6a93170cd757fe69442373b3111211bbc14f6d52d42b0f7577abe"
+    },
+    {
+      "id": 22,
+      "bytes": 136298,
+      "sha256": "c7914ba91e662a9fe66b2451e066d2e1476a9e8a1ca943e78b72b401aa67c907"
+    },
+    {
+      "id": 23,
+      "bytes": 148837,
+      "sha256": "526e88c90b0e01e718e97ce46249cc6c81ba8a0a29b5f3b78ef9d6d5cdfac767"
+    },
+    {
+      "id": 24,
+      "bytes": 202336,
+      "sha256": "582b9d553b49ac5feb262cab74a781314a4ad813d211d7795abded5eb7755dc2"
+    },
+    {
+      "id": 25,
+      "bytes": 600651,
+      "sha256": "8f652b544c30fa7f58f328fd25b2229666c85e7d9bc209f74836dd492b7db5ca"
+    },
+    {
+      "id": 26,
+      "bytes": 341516,
+      "sha256": "77c849567aaa98dc75b85e846d019aa24bf5dd0a3d6eb0938bb2212ac79e6446"
+    },
+    {
+      "id": 27,
+      "bytes": 305572,
+      "sha256": "f97df9288cec480bcd82c001d4f87275da2fcb8ac7563f3a88b4df9e21cb8c69"
+    },
+    {
+      "id": 28,
+      "bytes": 149673,
+      "sha256": "68404505a7de8b23bc9554cb87d7ae6de7737e7a19494ea9c5b9dcfa008e300e"
+    },
+    {
+      "id": 29,
+      "bytes": 812556,
+      "sha256": "f36e5eefc7c84dcae10eb0b267f3513b8e5045cfd9f82aefa94e56f1469a1bce"
+    }
+  ]
+}

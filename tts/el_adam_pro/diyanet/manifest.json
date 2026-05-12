@@ -3,6 +3,12 @@
   "meal": "diyanet",
   "model": "eleven_multilingual_v2",
   "elevenlabs_voice_id": "J17lijyP1BHYcM7ld0Rg",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.5,
+    "style": 0.0,
+    "speed": 1.0
+  },
   "version": 1,
   "surahs": [
     {
@@ -16,6 +22,10 @@
     {
       "id": 36,
       "verses_present": 83
+    },
+    {
+      "id": 48,
+      "verses_present": 29
     },
     {
       "id": 59,
@@ -61,11 +71,5 @@
       "id": 114,
       "verses_present": 6
     }
-  ],
-  "voice_settings": {
-    "stability": 0.45,
-    "similarity_boost": 0.5,
-    "style": 0.0,
-    "speed": 1.0
-  }
+  ]
 }
